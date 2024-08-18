@@ -1,0 +1,66 @@
+[
+    {
+        "date_updated": 1723675899,
+        "url": "https://example.com/job/1",
+        "company_name": "Company A",
+        "title": "Position Title A",
+        "locations": [
+            "Location A"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "source_placeholder",
+        "id": "id_placeholder_1",
+        "date_posted": 1723675899,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723675947,
+        "url": "https://example.com/job/2",
+        "company_name": "Company B",
+        "title": "Position Title B",
+        "locations": [
+            "Location B"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "source_placeholder",
+        "id": "id_placeholder_2",
+        "date_posted": 1723675947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723699024,
+        "url": "https://example.com/job/3",
+        "company_name": "Company C",
+        "title": "Position Title C",
+        "locations": [
+            "Location C"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "source_placeholder",
+        "id": "id_placeholder_3",
+        "date_posted": 1723699024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723699071,
+        "url": "https://example.com/job/4",
+        "company_name": "Company C",
+        "title": "Position Title D",
+        "locations": [
+            "Location D"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "source_placeholder",
+        "id": "id_placeholder_4",
+        "date_posted": 1723699071,
+        "company_url": "",
+        "is_visible": true
+    }
+]
